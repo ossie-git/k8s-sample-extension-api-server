@@ -1,5 +1,7 @@
 # sample-apiserver
 
+##NOTE** Just modified it so that it works without you having to modify **deployment.yaml**
+
 Demonstration of how to use the k8s.io/apiserver library to build a functional API server.
 
 **Note:** go-get or vendor this package as `k8s.io/sample-apiserver`.
