@@ -1,6 +1,6 @@
 # sample-apiserver
 
-##NOTE** Just modified it so that it works without you having to modify **deployment.yaml**
+##NOTE** This example is just [this](https://github.com/kubernetes/sample-apiserver) with one small modification in **deployment.yaml** so you do not have to manually modify it
 
 Demonstration of how to use the k8s.io/apiserver library to build a functional API server.
 
